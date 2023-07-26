@@ -1,2 +1,2 @@
 # ProyectoBurguer
-https://florenciafirpo.github.io/ProyectoBurguer/
+https://florenciafirpo.github.io/PaginaWebBurguer/
